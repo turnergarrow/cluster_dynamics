@@ -1,7 +1,0 @@
-[channel]
-must_check_if_worker_is_up_to_date=0
-use_python_interpreter=1
-[data]
-input_data_root_directory=/home/tgarrow/local/amuse/prerequisites/share/amuse/data
-output_data_root_directory=amuse-data
-amuse_root_dir=/home/tgarrow/local/amuse/prerequisites/share/amuse
